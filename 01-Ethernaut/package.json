@@ -1,0 +1,9 @@
+{
+  "name": "Ethernaut",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "3.2.0"
+  }
+}
